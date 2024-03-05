@@ -8,7 +8,7 @@ Script de Menú Interactivo en Bash
 |  |  |
 
 # Descripcion
-Este proyecto es un script interactivo en bash que proporciona a los usuarios un menú para realizar diversas acciones, como crear carpetas, archivos, ingresar texto y más.
+Este proyecto es una Terminal personalizada para utilizar en Ubuntu como terminal Bash
 
 ## Instalación
 
@@ -31,19 +31,13 @@ Para instalar y configurar este proyecto, sigue estos pasos: Copia y pega los si
     ```
     
     ```
-    sudo add-apt-repository ppa:ytvwld/asciiquarium
-    sudo apt update
-    sudo apt install asciiquarium
+    sudo apt install ascii-image-converter
     ```
+    
+    
+   
 
-    ```
-    sudo apt install fortune
-    ```
-    
-    
-    ```
-    sudo apt install lolcat
-    ```
+   
     
 
 ## Uso
@@ -53,9 +47,9 @@ Sigue estas instrucciones para utilizar el proyecto:
 1.  Ejecuta el script en tu terminal:
     
     
-    bash script.sh
+    bash launcher.sh
     
-Introduce tu nombre
+Este script te mostrara en terminal el numero de proceso que utilizaras luego para cerrarlo y abrira una ventana con tu terminal personalizada
 
 2.  Selecciona la opción que desees del menú principal.
    
